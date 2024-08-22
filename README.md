@@ -4,7 +4,7 @@
   <img src="https://github.com/Julian-Batiston-UTN/Julian-Batiston-UTN/blob/main/BannerJulinBatistn-GitHub-ezgif.com-loop-count.gif" width="800" alt="Banner">
 </div>
 
-**Julian-Batiston-UTN/Julian-Batiston-UTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Julian-Batiston-UTN/Julian-Batiston-UTN** <!--is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I am currently studying Electronic Engineering, C++, Arduino and Python.
 - 👯 I'm looking to collaborate on C++ or Arduino projects.
