@@ -23,4 +23,9 @@
     <img decoding="async" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" style="display: inline-block; pointer-events: none;"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Julian-Batiston-UTN&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Julian-Batiston-UTN&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+</div>
+
