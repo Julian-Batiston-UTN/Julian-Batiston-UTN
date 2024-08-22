@@ -4,6 +4,7 @@
   <img src="https://github.com/Julian-Batiston-UTN/Julian-Batiston-UTN/blob/main/BannerJulinBatistn-GitHub-ezgif.com-loop-count.gif" width="800" alt="Banner">
 </div>
 
+
 **Julian-Batiston-UTN/Julian-Batiston-UTN** <!--is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I am currently studying Electronic Engineering, C++, Arduino and Python.
@@ -11,3 +12,14 @@
 - 📫 How to reach me: juian.batiston@alumnos.frm.utn.edu.ar / julianbatiston45@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I play Valorant and other games.
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+</a>
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
+</div>
