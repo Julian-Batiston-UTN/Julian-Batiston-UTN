@@ -1,11 +1,8 @@
 # About me 👋
 
 <div id="header" align="center">
-  <video width="800" autoplay muted loop>
-    <source src="https://github.com/Julian-Batiston-UTN/Julian-Batiston-UTN/blob/main/Banner%20Juli%C3%A1n%20Batist%C3%B3n%20-%20GitHub.mp4" type="video/mp4">
-  </video>
+  <img src="https://github.com/Julian-Batiston-UTN/Julian-Batiston-UTN/blob/main/Banner%20Juli%C3%A1n%20Batist%C3%B3n%20-%20GitHub.gif" width="800" alt="Banner">
 </div>
-
 
 **Julian-Batiston-UTN/Julian-Batiston-UTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
