@@ -18,7 +18,8 @@
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
 <div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="display: inline-block; margin-right: 10px;"/>
-    <img decoding="async" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style="display: inline-block; margin-right: 10px;"/>
-    <img decoding="async" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" style="display: inline-block;"/>
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="display: inline-block; margin-right: 10px; pointer-events: none;"/>
+    <img decoding="async" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style="display: inline-block; margin-right: 10px; pointer-events: none;"/>
+    <img decoding="async" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" style="display: inline-block; pointer-events: none;"/>
 </div>
+
